@@ -1,26 +1,26 @@
-# Intro.js v2.9.0
+# intro-lk.js v0.0.2
 
-[![Build Status](https://travis-ci.org/usablica/intro.js.svg?branch=master)](https://travis-ci.org/usablica/intro.js)
+[![Build Status](https://travis-ci.org/usablica/intro-lk.js.svg?branch=master)](https://travis-ci.org/usablica/intro-lk.js)
 
 > Better introductions for websites and features with a step-by-step guide for your projects.
 
 ## Where to get
-You can obtain your local copy of Intro.js from:
+You can obtain your local copy of intro-lk.js from:
 
-**1)** This github repository, using ```git clone https://github.com/usablica/intro.js.git```
+**1)** This github repository, using ```git clone https://github.com/usablica/intro-lk.js.git```
 
-**2)** Using bower ```bower install intro.js --save```
+**2)** Using bower ```bower install intro-lk.js --save```
 
-**3)** Using npm ```npm install intro.js --save```
+**3)** Using npm ```npm install intro-lk.js --save```
 
-**4)** Download it from CDN ([1](http://www.jsdelivr.com/projects/intro.js), [2](https://cdnjs.com/libraries/intro.js))
+**4)** Download it from CDN ([1](http://www.jsdelivr.com/projects/intro-lk.js), [2](https://cdnjs.com/libraries/intro-lk.js))
 
 ## How to use
-Intro.js can be added to your site in three simple steps:
+intro-lk.js can be added to your site in three simple steps:
 
-**1)** Include `intro.js` and `introjs.css` (or the minified version for production) in your page. Use `introjs-rtl.min.css` for Right-to-Left language support.
+**1)** Include `intro-lk.js` and `introjs.css` (or the minified version for production) in your page. Use `introjs-rtl.min.css` for Right-to-Left language support.
 
-> CDN hosted files are available at [jsDelivr](http://www.jsdelivr.com/projects/intro.js) (click Show More) & [cdnjs](https://cdnjs.com/libraries/intro.js).
+> CDN hosted files are available at [jsDelivr](http://www.jsdelivr.com/projects/intro-lk.js) (click Show More) & [cdnjs](https://cdnjs.com/libraries/intro-lk.js).
 
 **2)** Add `data-intro` and `data-step` to your HTML elements. To add hints you should use `data-hint` attribute.
 
@@ -41,7 +41,7 @@ Optionally, pass one parameter to `introJs` function to limit the presentation s
 
 **For example** `introJs(".introduction-farm").start();` runs the introduction only for elements with `class='introduction-farm'`.
 
-<p align="center"><img src="https://raw.githubusercontent.com/usablica/intro.js/gh-pages/img/introjs-demo.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/usablica/intro-lk.js/gh-pages/img/introjs-demo.png"></p>
 
 ## Documentation
 
@@ -49,7 +49,7 @@ Please visit [Documentation](http://introjs.com/docs).
 
 ## Using with:
 
-Intro.js has many wrappers for different purposes. Please visit [Documentation](http://introjs.com/docs) for more info.
+intro-lk.js has many wrappers for different purposes. Please visit [Documentation](http://introjs.com/docs) for more info.
 
 ## Build
 
@@ -71,7 +71,7 @@ Want to learn faster and easier? Here we have **Instant IntroJs**, Packt Publish
   <a target='_blank' href="http://www.packtpub.com/create-useful-introductions-for-websites-and-applications-with-introjs-library/book">Buy and Download</a>
 </p>
 
-## <a href="https://github.com/usablica/intro.js/blob/master/changelog.md">Release History</a>
+## <a href="https://github.com/usablica/intro-lk.js/blob/master/changelog.md">Release History</a>
 
 ## Authors
 **Afshin Mehrabani**
@@ -86,20 +86,20 @@ Want to learn faster and easier? Here we have **Instant IntroJs**, Packt Publish
 - [Github](https://github.com/bozdoz)
 - [Personal page](https://bozdoz.com/)
 
-[Other contributors](https://github.com/usablica/intro.js/graphs/contributors)
+[Other contributors](https://github.com/usablica/intro-lk.js/graphs/contributors)
 
 ## Contributing
 
-View [contribution guidlines](https://github.com/usablica/intro.js/blob/master/CONTRIBUTING.md)
+View [contribution guidlines](https://github.com/usablica/intro-lk.js/blob/master/CONTRIBUTING.md)
 
 ## Support/Discussion
-- [Stackoverflow](http://stackoverflow.com/questions/tagged/intro.js)
+- [Stackoverflow](http://stackoverflow.com/questions/tagged/intro-lk.js)
 
 ## License
 
 ### Commercial license
 
-If you want to use Intro.js for a commercial application, theme or plugin the commercial license is the appropriate license. With this option, your source code is kept proprietary. Purchase a commercial license at [introjs.com](http://introjs.com/#commercial)
+If you want to use intro-lk.js for a commercial application, theme or plugin the commercial license is the appropriate license. With this option, your source code is kept proprietary. Purchase a commercial license at [introjs.com](http://introjs.com/#commercial)
 
 ### Open-source license
 
